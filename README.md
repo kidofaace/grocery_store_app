@@ -5,9 +5,9 @@ in this we can
 2. delete groceries
 with their categories such as(egg as a diary) product.
 in this I took care of errors like 
-No data error
-error response 
-deleting request
+1. No data error
+2. error response 
+3. deleting request
 link for the database is 
 (https://console.firebase.google.com/project/flutter-first-a2aae/database/flutter-first-a2aae-default-rtdb/data)
 
