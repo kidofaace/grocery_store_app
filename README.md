@@ -1,6 +1,15 @@
 # grocery_store_app
-
-A new Flutter project.
+This app uses realtime database from google firebase to store all the items(groceries)
+in this we can
+1. add groceries
+2. delete groceries
+with their categories such as(egg as a diary) product.
+in this I took care of errors like 
+No data error
+error response 
+deleting request
+link for the database is 
+(https://console.firebase.google.com/project/flutter-first-a2aae/database/flutter-first-a2aae-default-rtdb/data)
 
 ## Getting Started
 
