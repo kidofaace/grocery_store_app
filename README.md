@@ -2,12 +2,18 @@
 This app uses realtime database from google firebase to store all the items(groceries)
 in this we can
 1. add groceries
-2. delete groceries
-with their categories such as(egg as a diary) product.
+2. delete groceries  
+
+With their categories such as(egg as a diary) product.  
+
+
 in this I took care of errors like 
 1. No data error
 2. error response 
-3. deleting request
+3. deleting request  
+
+
+
 link for the database is 
 (https://console.firebase.google.com/project/flutter-first-a2aae/database/flutter-first-a2aae-default-rtdb/data)
 
